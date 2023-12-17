@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection System
 
-![Fraud Detection](fraud_detection_image.jpg)
+
 
 ## Overview
 
