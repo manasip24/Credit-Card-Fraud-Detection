@@ -12,7 +12,7 @@ Credit card fraud is a significant concern for both individuals and organization
 
 The key components of the project include:
 
-- Data Collection: Utilizing a suitable dataset of credit card transactions that includes both legitimate and fraudulent transactions.
+- Data Collection: Utilizing a suitable dataset of credit card transactions that includes both legitimate and fraudulent transactions. [Credit Card Fraud Detection dataset on Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/) 
 - Data Preprocessing: Cleaning and preprocessing the dataset to handle missing values, outliers, and class imbalance.
 - Data Storage: Setting up a MySQL database to store the preprocessed transaction data.
 - Model Development: Implementing machine learning algorithms for fraud detection, including Logistic Regression and others.
